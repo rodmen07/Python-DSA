@@ -31,4 +31,3 @@ def max_profit(lengths, costPerCut, salePrice):
 
     return max_profit
 
-print(max_profit([26, 103, 59], 1, 10))  # Output: 1770
